@@ -6,60 +6,21 @@
 ### Follow Me👉👉<a href="https://www.linkedin.com/in/koki-takahashi-b4b02a212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a><br><br>
    
 ## About Me
-・I will be a web de
-・
-・
+・I'm a web developer with great passion😎<br>
+・Originally from Tokyo, Japan🚠<br>
+・Japanese🇯🇵 / English🇺🇸 bilingual👴
 
-## Getting Started
-### Setup
+## My Skills
 
-Install gems
-```
-bundle install
-```
-Install JS packages
-```
-yarn install
-```
-
-### ENV Variables
-Create `.env` file
-```
-touch .env
-```
-Inside `.env`, set these variables. For any APIs, see group Slack channel.
-```
-CLOUDINARY_URL=your_own_cloudinary_url_key
-```
-
-### DB Setup
-```
-rails db:create
-rails db:migrate
-rails db:seed
-```
-
-### Run a server
-```
-rails s
-```
-
-## Built With
-- [Rails 7](https://guides.rubyonrails.org/) - Backend / Front-end
-- [Stimulus JS](https://stimulus.hotwired.dev/) - Front-end JS
-- [Heroku](https://heroku.com/) - Deployment
-- [PostgreSQL](https://www.postgresql.org/) - Database
-- [Bootstrap](https://getbootstrap.com/) — Styling
-- [Figma](https://www.figma.com) — Prototyping
-
-## Acknowledgements
-Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
-
-## Team Members
-- [Douglas Berkley](https://www.linkedin.com/in/dougberkley/)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="rails" alt="rails" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
