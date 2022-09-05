@@ -1,5 +1,7 @@
 # ✋ Hi, I'm Koki
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="100"/>
+</div>
 Project description goes here
 
 _DROP SCREENSHOT HERE_
