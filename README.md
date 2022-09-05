@@ -1,13 +1,14 @@
 # ✋ Hi, I'm Koki
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/KAvtgqQMwjxcw8QHGR/giphy.gif"/>
 </div>
-Project description goes here
 
-_DROP SCREENSHOT HERE_
-<br>
-App home: https://WHATEVER.herokuapp.com
+### Follow Me👉👉<a href="https://www.linkedin.com/in/koki-takahashi-b4b02a212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a><br><br>
    
+## About Me
+・I will be a web de
+・
+・
 
 ## Getting Started
 ### Setup
